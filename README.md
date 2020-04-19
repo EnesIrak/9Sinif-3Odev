@@ -56,8 +56,8 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir?**Cevap:Benim bulduğum değerler ile sizin değerlerininz arasında 0,02 m lik bir fark oluşuyor.** 
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
-Yardım:**Cismin ortlama hızını toplam yerdeğiştirme/zaman dan bulup m.g.1/2.v^2 yapıp sürtünme bulunabilir**
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.**Cevap:Hocam benim denklemimde ivme düzgün bir eğride olmadığı için cismin ilk hızına ulaşamadım**
-* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**Cevap:İş=kuvvet.Alınan yol olduğu için ve yol 1 m olduğu için yapılan iş harcanan kuvvete eşittir(sayısal olarak).
+Yardım:**Uygulanan kuvvet bilinseyi bulunabilirdi**
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.**Aldığı yol 0.675m'dir. Son hızı ise sıfırdır. Buna göre ilk hızı 1.65m/s çıkar.**
+* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**Cevap::½m.v²'den, 1. 1.65².½=1.36125 kinetik enerjiyi bulunur. Kinetik enerjideki değişim işteki değişime eşittir. W=F.x olduğu için 1.36125=F.0.675 çıkar. F=2.01.Bu işlemler yapıldıktan sonra sonucu 2.62 buldum fakat grafiğimdeki ivme düzgün bir eğride olmadığı için sonuç bundan farklı cıkacaktır.**.
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Cevap:Yalan söylememek gerekirse emin değilim hocam fakat sanırım bulamazdık.**
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Cevap:bulamazdık.**
