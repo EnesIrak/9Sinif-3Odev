@@ -53,11 +53,11 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
-1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir?**Cevap:Benim bulduğum değerler ile sizn değerlerininz arasında 0,02 m lik bir fark oluşuyor.** 
+1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir?**Cevap:Benim bulduğum değerler ile sizin değerlerininz arasında 0,02 m lik bir fark oluşuyor.** 
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:**Cismin ortlama hızını toplam yerdeğiştirme/zaman dan bulup m.g.1/2.v^2 yapıp sürtünme bulunabilir**
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.**cevap:Hacam benimdenklemimde ivme düzgün bir eğride olmadığı için cismin ilk hızına ulaşamadım** 
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.**Cevap:Hocam benim denklemimde ivme düzgün bir eğride olmadığı için cismin ilk hızına ulaşamadım**
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**Cevap:İş=kuvvet.Alınan yol olduğu için ve yol 1 m olduğu için yapılan iş harcanan kuvvete eşittir(sayısal olarak).
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Cevap:Yalan söylememek gerekirse emin değilim hocam fakat sanırım bulamazdık.**
